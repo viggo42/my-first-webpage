@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Libre+Franklin:wght@100&display=swap');
+
+
+
+p {
+    font-family: 'Inconsolata', monospace;
+    color: red;
+    width: 500px;
+    border: 1px solid blue;
+  }
+html{
+background-color: black;    
+}  
+h2{
+color: red;
+text-align: center;    
+}  
+h1{
+color: red;
+} 
+body{
+width: 500px ;
+margin: 0 auto;    
+}
+img{
+width: 100%;    
+}
